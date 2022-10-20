@@ -9,7 +9,7 @@ cd /tmp && git clone https://github.com/alexbieber/BugBountyTools
 cd BugBountyTools
 sudo ./alexbieber.sh
 ```
-## Example during installation:
+## Bug Bounty 🔴🔴🔴🔴✔:
 ![Main Logo](images/tool.jpg 'Example')
 
 # List of tools inserted:
